@@ -1,9 +1,11 @@
-
-public class HelloWorld
+namespace GitStudy
 {
-    public void Main()
-    {
-		Console.WriteLine("Hey Guy~");
-        Console.WriteLine("Hello World!");
-    }
+	public class HelloWorld
+	{
+		public void Main()
+		{
+			Console.WriteLine("Hey Guy~");
+			Console.WriteLine("Hello World!");
+		}
+	}
 }

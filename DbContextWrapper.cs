@@ -2,7 +2,7 @@
 using System.Data.Entity;
 using System.Threading.Tasks;
 
-namespace Emico.Data.Entity
+namespace GitStudy
 {
     public class DbContextWrapper : IDbContextWrapper
     {
