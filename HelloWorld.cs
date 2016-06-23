@@ -4,7 +4,7 @@ namespace GitStudy
 	{
 		public void Main()
 		{
-			Console.WriteLine("Hey Guy~");
+			Console.WriteLine("Hey   Guy~");
 			Console.WriteLine("Hello World!");
 		}
 	}
