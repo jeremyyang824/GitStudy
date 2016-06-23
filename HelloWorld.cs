@@ -3,6 +3,7 @@ public class HelloWorld
 {
     public void Main()
     {
-        Console.WriteLine("Hello W orld!");
+		Console.WriteLine("Hey Guy~");
+        Console.WriteLine("Hello World!");
     }
 }
