@@ -1,5 +1,4 @@
-﻿
-namespace Emico.Data.Repository
+﻿namespace GitStudy
 {
     public interface IRepository
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Emico.Data.Repository
+namespace GitStudy
 {
     public interface IUnitOfWork : IDisposable
     {
